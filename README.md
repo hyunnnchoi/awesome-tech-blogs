@@ -6,8 +6,6 @@ A curated collection of insightful tech blogs for developers and engineers.
 ## 📚 Tech Blog Directory  
 
 ### 🏢 **Company Blogs**  
-- **[Toss Tech Blog](https://toss.tech)**  
-  - Insights into engineering at Toss.  
 - **[Netflix Tech Blog](https://netflixtechblog.com)**  
   - Deep dives into Netflix's engineering challenges.  
 - **[Google Developers Blog](https://developers.googleblog.com)**  
@@ -18,6 +16,8 @@ A curated collection of insightful tech blogs for developers and engineers.
   - Projects and technologies at Meta (Facebook).  
 - **[Stripe Engineering Blog](https://stripe.com/blog)**  
   - Building scalable systems at Stripe.  
+- **[Toss Tech Blog](https://toss.tech)**  
+  - Insights into engineering at Toss.  
 
 ---
 
